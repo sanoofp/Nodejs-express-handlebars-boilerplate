@@ -17,7 +17,7 @@ This is a boilerplate for
 2. Install dependencies
 
 ```javascript
-  npm install
+  cd Nodejs-express-handlebars-boilerplate && npm install
 ```
 
 3. Run the Server
